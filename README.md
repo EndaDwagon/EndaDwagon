@@ -12,11 +12,7 @@
 
 ### I'm always happy to help, just send me a message on telegram or tag me in [my telegram chat](https://t.me/endaromchat)
 
-## What I'm focusing on right now
-
-### Currently I'm on break from porting Android and focusing on my studies
-
-## Extras:
+#
 
 | Links                                                                 | Stats                                   |
 |-----------------------------------------------------------------------|-----------------------------------------|
