@@ -1,15 +1,25 @@
-### hi im enda :)
+# Hi I'm Enda :)
 
-### im very stupid 
+### Most of you probably know me from EndaROM, MergeAll or even my old TikTok account
 
-### i have 6 cats :holymoly:
+## Some info about me
 
-### uh yeh im sometimes friendly 
+### I have 6 cats :holymoly:
 
-### i know python, bash and windows batch
+### I know Python, Bash, Windows Batch and basic C
 
-### Feel free to ask me for help on anything, im usually happy to help (if i can lol)
+### I use both Debian 13 (Trixie) and Windows 11 24H2 on the daily
 
-### Updates for my projects can be found at [t.me/endarom](t.me/endarom) :)
+### I'm always happy to help, just send me a message on telegram or tag me in [my telegram chat](https://t.me/endaromchat)
 
-Currently I own about 40 phones, and trying to maintain for all of them. So if I don't reply to your message, I'm not ignoring you
+## What I'm focusing on right now
+
+### Currently I'm on break from porting Android and focusing on my studies
+
+## Extras:
+
+### [EndaROM Updates (Telegram)](https://t.me/endarom)
+
+### [My bomb website](https://endadwagon.github.io)
+
+### [ExtremeROM](https://github.com/ExtremeXT/ExtremeROM)
