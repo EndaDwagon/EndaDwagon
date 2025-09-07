@@ -16,4 +16,4 @@
 
 | Links                                                                 | Stats                                   |
 |-----------------------------------------------------------------------|-----------------------------------------|
-| <h3>[EndaROM Updates (Telegram)](https://t.me/endarom)</h3> <br> <h3>[My bomb website](https://endadwagon.github.io)</h3> | ![Enda's GitHub stats](https://github-readme-stats.vercel.app/api?username=endadwagon&show_icons=true&theme=dark) |
+| <h3>[EndaROM Updates (Telegram)](https://t.me/endarom)</h3> <br> <h3>[My bomb website](https://endadwagon.github.io)</h3> | ![Enda's GitHub stats](https://github-readme-stats.vercel.app/api?username=endadwagon&show_icons=true&theme=transparent&include_all_commits=true)|
